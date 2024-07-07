@@ -3,3 +3,4 @@
 
 🌏 My dedicated portfolio site : *upcoming...*
 
+## 🖥️ Tech Stack
