@@ -35,3 +35,10 @@
 <p align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=bntngbgs&theme=shadow_green&hide_border=true"/>
 </p>
+
+&nbsp;
+
+<p align="left">
+     <img src="https://img.shields.io/github/last-commit/bntngbgs/react-admin-dashboard" alt="bntngbgs" /> 
+    <img src="https://komarev.com/ghpvc/?username=bntngbgs&label=Profile%20views&color=0e75b6&style=flat" alt="bntngbgs" /> 
+</p>
