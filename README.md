@@ -4,9 +4,7 @@
 * 📫 How to reach me : bintangbgs16@gmail.com
 * 🌏 My portfolio site : [bintangbagus.is-a.dev](https://bintangbagus.is-a.dev)
 
-## 🛠️ Languange and Tools
-<div align="center">
-    
+## 🛠️ Languange and Tools  
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
     <img src="https://img.shields.io/badge/figma-%234A4A4A.svg?style=for-the-badge&logo=figma&logoColor=white" height="32" alt="figma logo"  />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html logo"  />
@@ -32,7 +30,8 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="vercel logo"  />
 </div>
 
-</div>
+&nbsp;
+
 <p align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=bntngbgs&theme=shadow_green&hide_border=true"/>
 </p>
