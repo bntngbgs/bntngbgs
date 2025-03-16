@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" alt="docker logo"  />
     <img src="https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
     <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo"  />
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="32" alt="netlify logo"  />
+<!--     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="32" alt="netlify logo"  /> -->
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="vercel logo"  />
 </div>
 
