@@ -40,8 +40,7 @@
 
 <dl>
     <dd>
-        <p align="left">
-            
+        <p align="left">       
             <img src="https://komarev.com/ghpvc/?username=bntngbgs&label=Profile%20views&color=0e75b6&style=flat" alt="bntngbgs" /> 
         </p>
     </dd>
